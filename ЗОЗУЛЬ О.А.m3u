@@ -31,18 +31,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8
 #EXTINF:0,МОЯ ПЛАНЕТА
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b800000.m3u8
-#EXTINF:0,ДОМАШНИЕ ЖИВОТНЫЕ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/158/index.m3u8
-#EXTINF:0,ZOOПАРК
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/731/index.m3u8
-#EXTINF:0,ANIMAL PLANET
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/137/index.m3u8
-#EXTINF:0,DISCOVERY CHANEL
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/140/index.m3u8
 #EXTINF:0,HISTORY
 http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
-#EXTINF:0,TRAVEL CHANNEL
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/130/index.m3u8
 #EXTINF:0,NAT GEOGRAPHIC
 http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:0,NAT GEO WILD
@@ -51,12 +41,6 @@ http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
 #EXTINF:0,VIASAT NATURE
 http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:0,FINE LIVING
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/735/index.m3u8
-#EXTINF:0,ТЕЛЕКАФЕ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/865/index.m3u8
-#EXTINF:0,ЕДА ПРЕМИУМ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/918/index.m3u8
 #EXTINF:0,КУХНЯ ТВ 
 http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
 #EXTINF:0,DISNEY CHANNEL
@@ -85,72 +69,38 @@ http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/538/index.m3u8
 http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8?version=2
 #EXTINF:0,МУЗ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8
-#EXTINF:0,VH1 CLASSIC
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/724/index.m3u8
 #EXTINF:0,ШАНСОН
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:0,OХОТНИК И РЫБОЛОВ 
 http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
 #EXTINF:0,ОХОТА И РЫБАЛКА
 http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:0,РОДНОЕ КИНО
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/126/index.m3u8
-#EXTINF:0,ЛЮБИМОЕ КИНО
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/722/index.m3u8
-#EXTINF:0,ДОМ КИНО
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/154/index.m3u8
-#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/907/index.m3u8
 #EXTINF:0,ДОМАШНИЙ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8
 #EXTINF:0,СУПЕР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:0,TV 1000
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/132/index.m3u8
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
 #EXTINF:0,TV 1000 ACTION
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/131/index.m3u8
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
 #EXTINF:0,КИНОМИКС
 http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 #EXTINF:0,КИНОХИТ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/516/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/125/index.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/145/index.m3u8
-#EXTINF:0,КИНОСЕРИЯ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/148/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/728/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/224/index.m3u8
-#EXTINF:0,КИНО ТВ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/732/index.m3u8
+http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
 #EXTINF:0,ЕВРОКИНО
 http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
 #EXTINF:0,МУЖСКОЕ КИНО
 http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:0,ОСТРОСЮЖЕТНОЕ 
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/904/index.m3u8
 #EXTINF:0,НСТ
 http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:0,ШОКИРУЮЩЕЕ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/913/index.m3u8
-#EXTINF:0,СТРАХ 
-http://s2.myowntv.org/hls/what.m3u8
 #EXTINF:0,НАШ ФУТБОЛ
 http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
-#EXTINF:0,EUROSPORT 1
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/141/index.m3u8
 #EXTINF:0,КХЛ
 http://178.124.183.5/hls/36H3IDE2WF/variant.m3u8?version=2
-#EXTINF:0,БОКС ТВ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/870/index.m3u8
 #EXTINF:0,УКРАIНА
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/1011/index.m3u8
 #EXTINF:0,IНТЕР
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:0,ТЕТ
-https://live-k2309-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
 #EXTINF:0,НОВИЙ КАНАЛ
 http://212.29.231.242:8080/btv_68/tracks-v1a1/index.m3u8
 #EXTINF:0,СТБ
@@ -163,8 +113,6 @@ http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/994/index.m3u8
 #EXTINF:0,2+2
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/995/index.m3u8
-#EXTINF:0,ПЕРШИЙ
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/1016/index.m3u8
 #EXTINF:0,РЕПОРТЕР
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 #EXTINF:0,ДУМСКАЯ ТВ
@@ -173,8 +121,7 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:0,112 Україна
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
-#EXTINF:0,News Network
-http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/978/index.m3u8
+
 
 
 
