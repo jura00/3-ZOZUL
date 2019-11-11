@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,ПЕРВЫЙ КАНАЛ 
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
-#EXTINF:0,РОССИЯ 1 
+http://178.57.121.38:8080/1HD/index.m3u8
+#EXTINF:0,РОССИЯ 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,НТВ 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
