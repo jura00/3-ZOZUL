@@ -111,6 +111,8 @@ http://51.15.176.84/hls/stb-ua/index.m3u8
 http://51.15.176.84/hls/ictv-ua/index.m3u8
 #EXTINF:0,НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:0,Перший 
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
 #EXTINF:0,1+1
 http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/994/index.m3u8
 #EXTINF:0,2+2
