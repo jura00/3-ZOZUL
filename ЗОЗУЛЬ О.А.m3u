@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,ПЕРВЫЙ КАНАЛ 
-http://178.57.121.38:8080/1HD/index.m3u8
+http://gorod.tv/s/live/1/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
 #EXTINF:0,РОССИЯ 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,НТВ 
