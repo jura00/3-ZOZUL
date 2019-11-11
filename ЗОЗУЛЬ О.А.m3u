@@ -11,6 +11,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-0,ЗВЕЗДА
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
+#EXTINF:-0,ПОБЕДА
+http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:-0,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
 #EXTINF:-0,ТНТ
@@ -125,10 +127,7 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:0,112 Україна
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
-#EXTINF:0,СПУСК
-http://212.113.38.99/hls/7cc21bca82b9cc51e91751f0945b7368/mhd/The.Descent.2005.1080p.m3u8
-#EXTINF:0,СПУСК 2
-http://212.113.38.99/hls/7cc21bca82b9cc51e91751f0945b7368/mhd/The.Descent.Part.2.2009.1080p.m3u8
+
 
 
 
