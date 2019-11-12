@@ -123,8 +123,8 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:0,112 Україна
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
-
-
+#EXTINF:0,СПУСК
+http://vs0.cdnlast.com/s/c1c26c647d64bf757ac8e22c884dcef7c1ec97/hd-nf19/The.Descent.2005.BDRip.1080p_480.mp4
 
 
 
