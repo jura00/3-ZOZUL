@@ -11,6 +11,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-0,ЗВЕЗДА
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
+#EXTINF:-0,ПОБЕДА
+http://91.219.198.26:8000/play/a068/index.m3u8
 #EXTINF:-0,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
 #EXTINF:-0,ТНТ
