@@ -81,6 +81,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
 #EXTINF:0,РОДНОЕ КИНО
 http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
+#EXTINF:0,ДОМ КИНО
+http://178.57.121.38:8080/domkino/index.m3u8
+#EXTINF:0,СДЕЛАНО В СССР
+http://tv.ussr.icu/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:0,TV 1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
 #EXTINF:0,TV 1000 ACTION
