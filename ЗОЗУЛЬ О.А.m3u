@@ -95,6 +95,8 @@ http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
 http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
 #EXTINF:0,НСТ
 http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:0,СТРАХ
+http://s2.myowntv.org/hls/what.m3u8
 #EXTINF:0,НАШ ФУТБОЛ
 http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
 #EXTINF:0,КХЛ
