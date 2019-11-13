@@ -11,8 +11,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-0,ЗВЕЗДА
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
-#EXTINF:-0,ПОБЕДА
-http://91.219.198.26:8000/play/a068/index.m3u8
 #EXTINF:-0,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
 #EXTINF:-0,ТНТ
@@ -79,6 +77,10 @@ http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8
 #EXTINF:0,СУПЕР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0,НАШЕ ЛЮБИМОЕ КИНО
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
 #EXTINF:0,TV 1000
 http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
 #EXTINF:0,TV 1000 ACTION
@@ -89,6 +91,8 @@ http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
 http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 #EXTINF:0,КИНОХИТ
 http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
+#EXTINF:0,КИНОСЕРИЯ
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
 #EXTINF:0,ЕВРОКИНО
 http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
 #EXTINF:0,МУЖСКОЕ КИНО
